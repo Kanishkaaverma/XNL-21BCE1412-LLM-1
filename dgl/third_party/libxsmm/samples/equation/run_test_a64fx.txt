@@ -1,0 +1,5 @@
+equation_gather_reduce
+equation_layernorm
+equation_relu
+equation_simple
+equation_softmax

@@ -1,0 +1,9 @@
+stable-baselines3
+gym
+scikit-learn
+xgboost
+yfinance
+ccxt
+requests
+pandas
+numpy
